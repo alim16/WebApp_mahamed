@@ -1,0 +1,21 @@
+@charset "utf-8"
+/*css Document */
+
+/*body element's color */
+body{background-color: #FFFFFF
+}
+/*for links */
+a:link
+{font-weight:normal; color:navy
+}
+a:visited
+{font-weight:normal; color:Green;
+}
+a:hover
+{font-weight:bold; color: Red; font-variant:small-caps;
+}
+/*for a paragraph section  */
+p {font-style:italic; font-size:18px;
+}
+blue {color:#0000FF;
+}
